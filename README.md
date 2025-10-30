@@ -1,4 +1,3 @@
-![logo](https://github.com/MayerShohag/MayerShohag/blob/main/Cover%20page.png)
 <h1 style="text-align:center;">PORTFIO : https://day24challengebyshohag.netlify.app/</h1>
 <h1 align="center">Hi there, I'm Shohag Kumar</h1>
 <h3 align="center">A passionate Front-End developer from Bangladesh. Energetic and fast learning developer with hands on experience building responsive and dynamic web interfaces using React and modern JavaScript. Strong foundation in HTML, CSS, Tailwindcss and RESTful integrations. Eager to contribute creativity, technical skill, and a passion for clean, user focused design to a collaborative development team.</h3>
